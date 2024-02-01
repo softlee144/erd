@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T14:59:46.471Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="qWoANPsy4bSErnRIkr8O" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-01T13:52:27.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="oSp96CfjwgGAAAKSOzPw" version="23.0.2" type="github">
   <diagram name="페이지-1" id="2j_Kgk0AOY-v1cz8bwEK">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,12 +17,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XBCSh-ro25Oap2HENSft-5" value="전화번호" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="440" y="260" width="100" height="40" as="geometry" />
+          <mxGeometry x="490" y="270" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XBCSh-ro25Oap2HENSft-6" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="XBCSh-ro25Oap2HENSft-1">
+        <mxCell id="XBCSh-ro25Oap2HENSft-6" value="" style="endArrow=none;html=1;rounded=0;exitX=0.35;exitY=1.075;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XBCSh-ro25Oap2HENSft-5" target="XBCSh-ro25Oap2HENSft-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="482.5" y="300" as="sourcePoint" />
             <mxPoint x="540.5" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XBCSh-ro25Oap2HENSft-7" value="전화번호" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="390" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XBCSh-ro25Oap2HENSft-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="XBCSh-ro25Oap2HENSft-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="432.5" y="290" as="sourcePoint" />
+            <mxPoint x="490.5" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
